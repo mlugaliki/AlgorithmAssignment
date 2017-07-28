@@ -46,6 +46,7 @@ public class QueueOfStringsByLinkedList
         }
         return item;
     }
+
     public void push(String item)
     {
         Node oldFirst = first;

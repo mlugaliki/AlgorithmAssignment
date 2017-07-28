@@ -33,8 +33,8 @@ public class Stack<Item> implements Iterable<Item> {
 
     private class  Node
     {
-        Item item;
-        Node next;
+        public Item item;
+        public Node next;
     }
 
     public boolean isEmpty()
