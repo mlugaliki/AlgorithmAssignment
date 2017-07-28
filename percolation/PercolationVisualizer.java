@@ -1,7 +1,7 @@
 /******************************************************************************
  *  Compilation:  javac PercolationVisualizer.java
  *  Execution:    java PercolationVisualizer input.txt
- *  Dependencies: com.coursera.assignment.Percolation.java
+ *  Dependencies: com.coursera.week1.assignment.Percolation.java
  *
  *  This program takes the name of a file as a command-line argument.
  *  From that file, it
